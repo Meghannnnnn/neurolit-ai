@@ -1,0 +1,5 @@
+{
+  "name": "NeuroLit AI",
+  "description": "An intelligent literature review assistant for late-life depression, cognitive decline, and Alzheimer's research. Analyze papers, compare methodologies, and discover relevant works using Gemini 2.5.",
+  "requestFramePermissions": []
+}
